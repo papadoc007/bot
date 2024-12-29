@@ -51,7 +51,7 @@ def clear_data(update: Update, context: CallbackContext) -> None:
 # הפונקציה הראשית שמריצה את הבוט
 def main():
     # ה-Token שלך מבוטפאדר
-    updater = Updater("YOUR_TELEGRAM_BOT_TOKEN")
+    updater = Updater("7763303148:AAGTQcnoeLxg7CMHwESbn0peUIEao2E4a9M")
     dispatcher = updater.dispatcher
 
     # הגדרת הפקודות

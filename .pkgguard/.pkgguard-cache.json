@@ -1,0 +1,104 @@
+{
+  "javascript": {
+    "axios": {
+      "score": {
+        "packageName": "axios",
+        "score": 100,
+        "level": "high",
+        "evidence": {
+          "exists": true,
+          "downloads": 66987396,
+          "releaseAge": 69.69772836805555,
+          "multipleMaintainers": true,
+          "vulnerabilities": 0,
+          "maintainerCount": 17,
+          "registryUrl": "https://www.npmjs.com/package/axios",
+          "githubRepo": "https://github.com/axios/axios"
+        },
+        "scoreReasons": [
+          "🏆 This is a top npm package."
+        ],
+        "topDownloads": 65000000,
+        "releaseDate": "14-06-2025",
+        "riskFactors": [],
+        "githubRepo": "https://github.com/axios/axios"
+      },
+      "timestamp": 1752521229189
+    },
+    "express": {
+      "score": {
+        "packageName": "express",
+        "score": 100,
+        "level": "high",
+        "evidence": {
+          "exists": true,
+          "downloads": 46539698,
+          "releaseAge": 0,
+          "multipleMaintainers": true,
+          "vulnerabilities": 0,
+          "maintainerCount": 11,
+          "registryUrl": "https://www.npmjs.com/package/express",
+          "githubRepo": "https://github.com/expressjs/express"
+        },
+        "scoreReasons": [
+          "🏆 This is a top npm package."
+        ],
+        "topDownloads": 85000000,
+        "releaseDate": "31-03-2025",
+        "riskFactors": [],
+        "githubRepo": "https://github.com/expressjs/express"
+      },
+      "timestamp": 1752521229355
+    },
+    "dotenv": {
+      "score": {
+        "packageName": "dotenv",
+        "score": 100,
+        "level": "high",
+        "evidence": {
+          "exists": true,
+          "downloads": 59281725,
+          "releaseAge": 94.87399582175927,
+          "multipleMaintainers": true,
+          "vulnerabilities": 0,
+          "maintainerCount": 4,
+          "registryUrl": "https://www.npmjs.com/package/dotenv",
+          "githubRepo": "git://github.com/motdotla/dotenv"
+        },
+        "scoreReasons": [
+          "🏆 This is a top npm package."
+        ],
+        "topDownloads": 5000000,
+        "releaseDate": "09-07-2025",
+        "riskFactors": [],
+        "githubRepo": "git://github.com/motdotla/dotenv"
+      },
+      "timestamp": 1752521229493
+    },
+    "cors": {
+      "score": {
+        "packageName": "cors",
+        "score": 100,
+        "level": "high",
+        "evidence": {
+          "exists": true,
+          "downloads": 20321953,
+          "releaseAge": 0,
+          "multipleMaintainers": true,
+          "vulnerabilities": 0,
+          "maintainerCount": 2,
+          "registryUrl": "https://www.npmjs.com/package/cors",
+          "githubRepo": "https://github.com/expressjs/cors"
+        },
+        "scoreReasons": [
+          "🏆 This is a top npm package."
+        ],
+        "topDownloads": 31000000,
+        "releaseDate": "04-11-2018",
+        "riskFactors": [],
+        "githubRepo": "https://github.com/expressjs/cors"
+      },
+      "timestamp": 1752521229621
+    }
+  }
+}
